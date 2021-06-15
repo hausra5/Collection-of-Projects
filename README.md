@@ -1,2 +1,2 @@
 # DataQuest_Projects
-Here are some select projects I'm working on from the Dataquest Data Science Path.  I only included the projects that were the most interesting to me for now.
+I am in the process of completing the Data Science Career Path Boot Camp from Dataquest.  In this repository, I have chosen a handful of projects that I enjoyed and thought were worth sharing.
