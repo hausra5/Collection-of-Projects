@@ -3,7 +3,7 @@ Over the past couple of years I have been working on multiple projects. In this 
 
 ## Table of contents
 * [Data Cleaning Projects](#Data Cleaning Projects)
-* [Data Visualization Projects](#technologies)
+* [Data Visualization Projects](#Data Visualization Projects)
 * [SQL Projects](#SQL Projects)
 * [Statistics Projects](#Statistics Projects)
 * [Probability Projects](#Probability Projects)
