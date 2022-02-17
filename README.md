@@ -2,12 +2,12 @@
 Over the past couple of years I have been working on multiple projects. In this repository you will find a selection of projects that I found interesting that demonstrate different capabilities. 
 
 ## Table of contents
-* [Data Cleaning Projects](#Data Cleaning Projects)
-* [Data Visualization Projects](#Data Visualization Projects)
-* [SQL Projects](#SQL Projects)
-* [Statistics Projects](#Statistics Projects)
-* [Probability Projects](#Probability Projects)
-* [Machine Learning Projects](#Machine Learning Projects)
+* [Data Cleaning Projects](#Data-Cleaning-Projects)
+* [Data Visualization Projects](#Data-Visualization-Projects)
+* [SQL Projects](#SQL-Projects)
+* [Statistics Projects](#Statistics-Projects)
+* [Probability Projects](#Probability-Projects)
+* [Machine Learning Projects](#Machine-Learning-Projects)
 
 ## Data Cleaning Projects
 * Dete and Tafe Exit Survey
