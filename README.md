@@ -7,7 +7,7 @@ Over the past couple of years I have been working on multiple projects. In this 
 * [SQL Projects](#SQL-Projects)
 * [Statistics Projects](#Statistics-Projects)
 * [Probability Projects](#Probability-Projects)
-* [Machine Learning and Kaggle Projects](#Machine-Learning-Projects)
+* [Machine Learning and Kaggle Projects](#Machine-Learning-and-Kaggle-Projects)
 
 ## Data Cleaning Projects
 * Dete and Tafe Exit Survey
