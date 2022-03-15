@@ -7,7 +7,7 @@ Over the past couple of years I have been working on multiple projects. In this 
 * [SQL Projects](#SQL-Projects)
 * [Statistics Projects](#Statistics-Projects)
 * [Probability Projects](#Probability-Projects)
-* [Machine Learning Projects](#Machine-Learning-Projects)
+* [Machine Learning and Kaggle Projects](#Machine-Learning-Projects)
 
 ## Data Cleaning Projects
 * Dete and Tafe Exit Survey
@@ -41,7 +41,7 @@ Over the past couple of years I have been working on multiple projects. In this 
 * Building a Spam Filter
     * Writing from scratch a Naive Bayes Classifier to build an e-mail spam filter.
 
-## Machine Learning Projects
+## Machine Learning and Kaggle Projects
 * Bike Rentals
     * Train multiple different models to accurately make predictions on how many bikes will be rented in one day in Washington, DC.
 * Handwritten Digits
