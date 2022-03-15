@@ -7,7 +7,8 @@ Over the past couple of years I have been working on multiple projects. In this 
 * [SQL Projects](#SQL-Projects)
 * [Statistics Projects](#Statistics-Projects)
 * [Probability Projects](#Probability-Projects)
-* [Machine Learning and Kaggle Projects](#Machine-Learning-and-Kaggle-Projects)
+* [Machine Learning](#Machine-Learning)
+* [Kaggle Competitions](#Kaggle-Competitions)
 
 ## Data Cleaning Projects
 * Dete and Tafe Exit Survey
@@ -41,17 +42,19 @@ Over the past couple of years I have been working on multiple projects. In this 
 * Building a Spam Filter
     * Writing from scratch a Naive Bayes Classifier to build an e-mail spam filter.
 
-## Machine Learning and Kaggle Projects
+## Machine Learning
 * Bike Rentals
     * Train multiple different models to accurately make predictions on how many bikes will be rented in one day in Washington, DC.
 * Handwritten Digits
     * Train a neural network model to accurately predict handwritten digits.
-* Kaggle Titanic
-    * Implementing feature selection and engineering, train and tune multiple models through grid searches on the Kaggle Titanic Dataset.
 * Predicting Car Prices
     * Train and tune multiple KNN models to accurately predict car prices.
 * Predict House Sales
     * Using the Ames, Iowa dataset, created a pipeline to help a Linear Regression model produce accurate house predictions.
+
+## Kaggle Competitions
+* Kaggle Titanic
+    * Implementing feature selection and engineering, train and tune multiple models through grid searches on the Kaggle Titanic Dataset.
 * Kaggle Predict Future Sales
     * This is a very complex time series dataset with 3 million rows, all in Russian, where using data cleaning, feature engineering, and model tuning, I trained multiple Machine Learning models to achieve a RMSE score of 1.47 on the official Kaggle Holdout set.
 
