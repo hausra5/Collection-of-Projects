@@ -52,4 +52,7 @@ Over the past couple of years I have been working on multiple projects. In this 
     * Train and tune multiple KNN models to accurately predict car prices.
 * Predict House Sales
     * Using the Ames, Iowa dataset, created a pipeline to help a Linear Regression model produce accurate house predictions.
+* Kaggle Predict Future Sales
+    * This is a very complex time series dataset with 3 million rows, all in Russian, where using data cleaning, feature engineering, and model tuning, I trained multiple Machine Learning models to achieve a RMSE score of 1.47 on the official Kaggle Holdout set.
+
 
