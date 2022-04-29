@@ -57,5 +57,7 @@ Over the past couple of years I have been working on multiple projects. In this 
     * Implementing feature selection and engineering, train and tune multiple models through grid searches on the Kaggle Titanic Dataset.
 * Kaggle Predict Future Sales
     * This is a very complex time series dataset with 3 million rows, all in Russian, where using data cleaning, feature engineering, and model tuning, I trained multiple Machine Learning models to achieve a RMSE score of 1.47 on the official Kaggle Holdout set.
+* Kaggle Spaceship Titanic
+    * In this project, I display multiple ways to clean the data and fill null values. I also implement a fair amount of feature engineering before successfully running multiple Machine Learning Algorithms. When originally completed the project, I was able to place in the Top 300 on Kaggle for this competition. I also display how to use the KNN Imputer.
 
 
